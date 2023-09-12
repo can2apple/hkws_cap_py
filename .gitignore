@@ -1,0 +1,7 @@
+__pycache__
+build/
+# VS code 
+.vscode
+# hidden folder for aml configs
+.git
+ineed/opencv/
